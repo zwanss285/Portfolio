@@ -139,7 +139,7 @@
                                 <span class="badge bg-info">Midtrans</span>
                             </div>
                             <div class="d-flex gap-2">
-                                <a href="https://github.com/username/ecommerce" target="_blank" class="btn btn-dark btn-sm">
+                                <a href="https://github.com/zwanss285/umkm-sambel-gondes" target="_blank" class="btn btn-dark btn-sm">
                                     <i class="fab fa-github"></i> GitHub
                                 </a>
                                 <a href="#" target="_blank" class="btn btn-primary btn-sm">
@@ -164,7 +164,7 @@
                                 <span class="badge bg-info">API Sanctum</span>
                             </div>
                             <div class="d-flex gap-2">
-                                <a href="https://github.com/username/inventory" target="_blank" class="btn btn-dark btn-sm">
+                                <a href="https://github.com/zwanss285/api-aplikasi-keuangan-android" target="_blank" class="btn btn-dark btn-sm">
                                     <i class="fab fa-github"></i> GitHub
                                 </a>
                                 <a href="#" target="_blank" class="btn btn-primary btn-sm">
@@ -214,7 +214,7 @@
                                 <span class="badge bg-info">CSS</span>
                             </div>
                             <div class="d-flex gap-2">
-                                <a href="https://github.com/username/portfolio" target="_blank" class="btn btn-dark btn-sm">
+                                <a href="https://github.com/zwanss285/Portfolio" target="_blank" class="btn btn-dark btn-sm">
                                     <i class="fab fa-github"></i> GitHub
                                 </a>
                                 <a href="#" target="_blank" class="btn btn-primary btn-sm">
@@ -239,7 +239,7 @@
                                 <span class="badge bg-info">PHP Native</span>
                             </div>
                             <div class="d-flex gap-2">
-                                <a href="https://github.com/username/absensi" target="_blank" class="btn btn-dark btn-sm">
+                                <a href="https://github.com/zwanss285/web-sekolah" target="_blank" class="btn btn-dark btn-sm">
                                     <i class="fab fa-github"></i> GitHub
                                 </a>
                                 <a href="#" target="_blank" class="btn btn-primary btn-sm">
